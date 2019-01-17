@@ -7,4 +7,6 @@ Python 3 script created to decrypt the alabaster_passwords vault from kringlecon
 
 Tested on both Windows and Linux!
 
-You can
+You can also check out my blog on this: https://mrjsec.co.uk/blog/objective-9-4-recover-alabasters-password/
+
+Enjoy!
